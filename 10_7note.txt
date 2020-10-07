@@ -1,0 +1,16 @@
+3n+1
+BigO(n)
+
+3n+3
+BigO(n)
+
+50n+5
+BigO(n)
+
+10n^2+5n+1
+BigO(n^2)
+
+5*2^n+n^2
+BigO(2^n)
+
+
